@@ -45,7 +45,7 @@ Medium: https://medium.com/@wirtremorbear
 
 Keybase: https://keybase.io/devinhpbrs
 
-Gitbook: https://devinhpbr.gitbook.io/devinhpbr/
+Website: https://doc.devin-h.pics/
 
 ![Screenshot_14](https://github.com/user-attachments/assets/26b3148a-61ca-431b-a39d-fb39dd22f114)
 
