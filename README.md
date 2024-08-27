@@ -24,6 +24,8 @@ We value your input and actively engage with our users to foster a sense of belo
 
 | Blockchain        | Node |
 |----------------|---------------------|
+| KUZCO | [CLICK GUIDE](https://doc.devin-h.pics/devinhpbr/guides/kuzko) |
+| CRITEA | [CLICK GUIDE](https://doc.devin-h.pics/devinhpbr/guides/citrea) |
 | WARDEN | [CLICK EXPLORER](https://testnet.warden.explorers.guru/validator/wardenvaloper19v8mzetaw45r2m9ujx86l4f3ahy9k8q2wrh7ud) |
 | BABYLON | [CLICK EXPLORER](https://testnet.babylon.explorers.guru/validator/bbnvaloper1rc2qd7ljm6pm83qzumkgtuvfsdep9ul8nh8zp0) |
 | 0G       | [CLICK EXPLORER](https://testnet.0g.explorers.guru/validator/0gvaloper14jf2meu7vaqedkuwrcsml5lzaunj0mzdlz8nx2) |
