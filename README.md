@@ -1,6 +1,6 @@
 # DevinHPBR
 
-I'm just a friendly neighbourhood validator.
+Just a friendly neighbourhood validator.
 
 ![logo-no-background](https://github.com/user-attachments/assets/8b454258-1ef9-45da-adb5-2ace8a188935)
 
